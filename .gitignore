@@ -1,0 +1,23 @@
+# Qt / CMake / IDE
+build/
+build-*/
+cmake-build-*/
+out/
+
+.qtcreator/
+CMakeLists.txt.user
+CMakeUserPresets.json
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时
+*.tmp
+*.bak
+*.swp
